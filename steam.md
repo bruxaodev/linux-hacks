@@ -18,7 +18,7 @@
     flatpak override com.valvesoftware.Steam --filesystem=/mnt/2tb:rw
 ```
 
-se ainda assim o disco nao aparecer verifique as permicoes no ponto de montagem
+se ainda assim o disco nao aparecer verifique as permissoes no ponto de montagem
 
 ```sh
 sudo cat /etc/fstab
