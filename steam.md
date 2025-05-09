@@ -37,6 +37,6 @@ caso a steam nao abra pode ser necessario habilitar
 
 ## hyprland
 
-### Ainda tem problemas
+### Ainda tem problemas?
 
-se voce tenta abrir o jogo e ele nao abre pode ser necessario instalar o `hyprpolkitagent`, uma forma que encontrei de testar isso foi tentar montar ou desmontar um disco no fileexplorer (nautilus), isso deve abrir uma janela para authenticar, caso essa janela nao abra e voce tenha um erro provavelmente instalar o `hyprpolkitagent` tambem resolvera.
+se voce tentar abrir o jogo e ele nao abre pode ser necessario instalar o `hyprpolkitagent`, uma forma que encontrei de testar isso foi tentar montar ou desmontar um disco no fileexplorer (nautilus), isso deve abrir uma janela para authenticar, caso essa janela nao abra e voce tenha um erro provavelmente instalar o `hyprpolkitagent` tambem resolvera.
