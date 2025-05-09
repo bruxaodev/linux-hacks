@@ -20,4 +20,6 @@ systemctl --user start hyprpolkitagent.service
 
 ## apps
 
-- [hyprshot](https://github.com/Gustash/Hyprshot)
+- [waybar](https://github.com/Alexays/Waybar) - statusbar
+- [hyprshot](https://github.com/Gustash/Hyprshot) - screnshoot
+- [cliphist](https://wiki.hyprland.org/Useful-Utilities/Clipboard-Managers/#cliphist) - gerenciador de area de transferencia

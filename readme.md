@@ -94,6 +94,15 @@ sudo dnf install ffmpeg-libs libva libva-utils
 
 - [Install vscode](https://code.visualstudio.com/docs/setup/linux)
 
+```sh
+  sudo dnf install docker docker-compose
+```
+
+```sh
+sudo usermod -aG docker $USER
+newgrp docker
+```
+
 # hacks
 
 - [Montando disco com o sistema](https://github.com/bruxaodev/linux-hacks/blob/fedora-42/mountDisk.md)
