@@ -29,6 +29,8 @@ voce tambem pode usar
 insira a seginte linha cp, o uuid desejado , ponto de montagem e tipo de sistema de arquivos, pode ser necessario mudar o uid e gid tambem
 
 `UUID=70F0EA88F0EA543E /mnt/2tb ntfs rw,exec,user,uid=1000,gid=1000,dmask=0002,fmask=0002,x-gvfs-show 0 0`
+ou
+`UUID=70F0EA88F0EA543E /mnt/2tb ntfs-3g rw,relatime,user_id=0,group_id=0,default_permissions,allow_other,x-gvfs-show 0 0`
 
 ## monte os discos
 
